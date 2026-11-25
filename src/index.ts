@@ -1,5 +1,5 @@
 // The types follow SPEC_AST.md of the flatmarkdown repository:
-// https://github.com/petajournal/flatmarkdown/blob/main/SPEC_AST.md
+// https://github.com/sosuisen/flatmarkdown/blob/main/SPEC_AST.md
 // They hold what the specification defines, and nothing more.
 
 // ── Block Nodes ──
