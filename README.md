@@ -1,8 +1,8 @@
 # flatmarkdown-ast
 
-TypeScript type definitions for the [FlatMarkdown](https://github.com/petajournal/flatmarkdown) AST.
+TypeScript type definitions for the [FlatMarkdown](https://github.com/sosuisen/flatmarkdown) AST.
 
-The npm package is named `flatmarkdown-ast`. The repository is named `flatmarkdown-ast-ts`, because the Rust crate [flatmarkdown-ast](https://crates.io/crates/flatmarkdown-ast) with the same types lives in the [flatmarkdown](https://github.com/petajournal/flatmarkdown) repository.
+The npm package is named `flatmarkdown-ast`. The repository is named `flatmarkdown-ast-ts`, because the Rust crate [flatmarkdown-ast](https://crates.io/crates/flatmarkdown-ast) with the same types lives in the [flatmarkdown](https://github.com/sosuisen/flatmarkdown) repository.
 
 ## Installation
 
@@ -28,7 +28,7 @@ const page: Page = JSON.parse(json);
 
 ## Versions
 
-The types follow [SPEC_AST.md](https://github.com/petajournal/flatmarkdown/blob/main/SPEC_AST.md) of the flatmarkdown repository.
+The types follow [SPEC_AST.md](https://github.com/sosuisen/flatmarkdown/blob/main/SPEC_AST.md) of the flatmarkdown repository.
 They hold what the specification defines, and nothing more.
 
 The version is the same as the version of the Rust crates.
